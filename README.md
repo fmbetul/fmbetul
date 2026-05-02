@@ -4,7 +4,7 @@ I'm **Betul**, a postdoctoral research scientist at **Columbia University**. �
 
 I have medical training and research experience in **computational biology** and **bioinformatics**, with a focus on applying genomic approaches to study neuroendocrine and metabolic disease biology.
 
-I mainly use **R** for genomic data analysis, visualization, and reproducible research workflows. 📊
+I primarily use **R** for genomic data analysis, visualization, and reproducible research workflows. 📊
 
 ## Current work
 
@@ -12,7 +12,7 @@ I mainly use **R** for genomic data analysis, visualization, and reproducible re
 - Functional genomics and CRISPR screening
 - Human hypothalamic neuron models
 - Obesity, metabolism, and neuroendocrine biology
-- Disease-associated gene and regulatory program analysis
+- Disease-associated gene and cell-state program analysis
 
 ## Learn more about my work
 
