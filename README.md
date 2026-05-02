@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**fmbetul/fmbetul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Betul**, a postdoctoral research scientist at **Columbia University**. 🧬
 
-Here are some ideas to get you started:
+I have medical training and research experience in **computational biology** and **bioinformatics**, with a focus on applying genomic approaches to study neuroendocrine and metabolic disease biology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I mainly use **R** for genomic data analysis, visualization, and reproducible research workflows. 📊
+
+## Current work
+
+- Single-cell and spatial transcriptomics
+- Functional genomics and CRISPR screening
+- Human hypothalamic neuron models
+- Obesity, metabolism, and neuroendocrine biology
+- Disease-associated gene and regulatory program analysis
+
+## Learn more about my work
+
+- [LinkedIn](https://www.linkedin.com/in/fmbetul/)
+- [ORCID](https://orcid.org/0009-0004-4164-4256)
+- [Google Scholar](https://scholar.google.com/citations?user=M0OmYLUAAAAJ&hl=tr)
